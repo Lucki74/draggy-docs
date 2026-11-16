@@ -52,3 +52,5 @@ Draggy ejecuta modelos locales con un motor integrado:
 - **GGUF (llama.cpp)**: ejecuta archivos de modelo `.gguf` en un proceso hijo oculto `llama-server` en el puerto `11435`. Usa Metal en macOS. En Windows se elige la versión CUDA cuando se encuentra una tarjeta gráfica con memoria, y Vulkan en otro caso. Las tarjetas AMD usan la versión ROCm antes que Vulkan cuando hay una publicada. Solo se ejecuta un motor local a la vez.
 
 Lo demás está en [CONTRIBUTING.md](https://github.com/Lucki74/draggy/blob/main/CONTRIBUTING.md), y [SECURITY.md](https://github.com/Lucki74/draggy/blob/main/SECURITY.md) explica cómo informar de una vulnerabilidad.
+
+El sitio web y esta documentación tienen sus propios repositorios: [Lucki74/draggy-website](https://github.com/Lucki74/draggy-website) y [Lucki74/draggy-docs](https://github.com/Lucki74/draggy-docs).

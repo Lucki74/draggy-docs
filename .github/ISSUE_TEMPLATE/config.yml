@@ -3,3 +3,6 @@ contact_links:
   - name: A bug or idea for the app
     url: https://github.com/Lucki74/draggy/issues/new/choose
     about: Problems with Draggy itself go to the app's repo.
+  - name: A problem with the website
+    url: https://github.com/Lucki74/draggy-website/issues/new/choose
+    about: Wrong or outdated content on draggy.org goes to the website repo.
