@@ -42,6 +42,8 @@
 "home.cards": "Вся документация",
   "footer.license": "Draggy бесплатен и открыт по лицензии Apache 2.0.",
   "footer.source": "Исходный код",
+  "footer.websiteSource": "Код сайта",
+  "footer.docsSource": "Код документации",
   "footer.issues": "Сообщить о проблеме",
   "footer.privacy": "Конфиденциальность",
   "crumbs": "Навигация",

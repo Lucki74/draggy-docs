@@ -10,6 +10,8 @@ const out = process.env.DOCS_OUT || join(root, "public");
 const SITE = "https://docs.draggy.org";
 const MAIN = "https://draggy.org";
 const REPO = "https://github.com/Lucki74/draggy";
+const WEB_REPO = "https://github.com/Lucki74/draggy-website";
+const DOCS_REPO = "https://github.com/Lucki74/draggy-docs";
 const LANGS = [
   { code: "en", name: "English", html: "en" },
   { code: "fr", name: "Français", html: "fr" },
@@ -287,7 +289,7 @@ ${body}
     ${rail}
     <footer class="foot">
       <p>${esc(t["footer.license"])}</p>
-      <p><a href="${REPO}" rel="noopener">${esc(t["footer.source"])}</a> <a href="${REPO}/issues" rel="noopener">${esc(t["footer.issues"])}</a> <a href="${mainUrl(lang, "privacy-policy")}" rel="noopener">${esc(t["footer.privacy"])}</a></p>
+      <p><a href="${REPO}" rel="noopener">${esc(t["footer.source"])}</a> <a href="${REPO}/issues" rel="noopener">${esc(t["footer.issues"])}</a> <a href="${DOCS_REPO}" rel="noopener">${esc(t["footer.docsSource"])}</a> <a href="${WEB_REPO}" rel="noopener">${esc(t["footer.websiteSource"])}</a> <a href="${mainUrl(lang, "privacy-policy")}" rel="noopener">${esc(t["footer.privacy"])}</a></p>
     </footer>
   </div>
 </div>
