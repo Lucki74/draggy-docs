@@ -10,7 +10,7 @@ Sí. No cuesta nada y no tiene versión de pago. Un proveedor que añadas te cob
 
 ## ¿Necesita internet?
 
-Sí, en algunos casos: descargar modelos y modelos de voz, la búsqueda web, las comprobaciones de actualizaciones, las listas de filtros del bloqueador de anuncios y cualquier proveedor o voz en la nube que añadas. Por defecto, el chat, Code, la búsqueda en tus documentos y la voz se ejecutan en tu equipo.
+Sí, en algunos casos: descargar modelos y modelos de voz, la búsqueda web, las comprobaciones de actualizaciones, las listas de filtros del bloqueador de anuncios y cualquier proveedor, voz en la nube o modelo de imagen en la nube que añadas. Por defecto, el chat, Code, la búsqueda en tus documentos y la voz se ejecutan en tu equipo.
 
 ## ¿Necesito una tarjeta gráfica?
 

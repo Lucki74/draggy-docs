@@ -12,6 +12,7 @@ Un proyecto es una carpeta en la que trabaja Code. Cada ruta se resuelve siguien
 
 - Carpetas como `.ssh`, `.aws`, `.gnupg`, `.kube`
 - Archivos como `.env`, `id_rsa`, `.pem`, `.npmrc`, `credentials`
+- Tipos ejecutables y de script como `.exe`, `.bat`, `.ps1` y `.py`
 - Cualquier cosa de más de 2 MB
 
 ## Todo cambio se puede deshacer

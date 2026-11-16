@@ -6,6 +6,29 @@ section: reference
 
 Cada compilación de Draggy es una release en GitHub, con sus notas e instaladores: [versiones de Draggy](https://github.com/Lucki74/draggy/releases).
 
+## Compilación 12
+
+- Las respuestas muestran imágenes generadas o encontradas en la web. Haz clic para abrir el visor.
+- Los modelos de imagen en la nube de un proveedor conectado aparecen en Ajustes, junto a los modelos locales.
+- El modelo de voz en la nube y el nombre de la voz se eligen en los ajustes de Hablar.
+- Las estadísticas valoran las respuestas locales a la tarifa de OpenRouter del modelo, con desglose por modelo.
+- Una nota de guía se puede retirar y editar.
+- La investigación marca las citas que no están en la página y enumera las fuentes de cada ejecución.
+
+### Correcciones
+
+- El modelo predeterminado en la nube se abre al iniciar.
+- llama.cpp ya no reutiliza un contexto obsoleto.
+- La búsqueda web durante la investigación espera al enfriamiento.
+- El panel del navegador se abre cuando el agente visita una página.
+- Se corrige el estado «Cargando modelo de voz».
+
+### Seguridad
+
+- Se bloquean las direcciones privadas resueltas por DNS.
+- Se rechazan más tipos de ejecutables.
+- Los scripts e instaladores se abren en su carpeta en lugar de ejecutarse.
+
 ## Compilación 11
 
 Versión 3.0.11, etiqueta `b-11` en GitHub.

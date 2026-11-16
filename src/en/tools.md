@@ -10,7 +10,7 @@ Word from Markdown, PowerPoint with a heading per slide, Excel from CSV or HTML,
 
 The Word, Excel, PowerPoint and PDF skills are always on and cannot be switched off. The model loads the right one before it writes the file.
 
-Executable and script file types are refused when a document is made.
+Executable and script file types are refused when a document is made or a file is opened. Scripts and installers open in their folder instead of running.
 
 ## Running code
 

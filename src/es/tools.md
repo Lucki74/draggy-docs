@@ -10,7 +10,7 @@ Word a partir de Markdown, PowerPoint con un título por diapositiva, Excel a pa
 
 Las habilidades de Word, Excel, PowerPoint y PDF están siempre activas y no se pueden desactivar. El modelo carga la que corresponde antes de escribir el archivo.
 
-Los tipos de archivo ejecutables y de script se rechazan al crear un documento.
+Los tipos de archivo ejecutables y de script se rechazan al crear un documento o al abrir un archivo. Los scripts e instaladores se abren en su carpeta en lugar de ejecutarse.
 
 ## Ejecutar código
 

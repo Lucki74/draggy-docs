@@ -10,7 +10,7 @@ Yes. It costs nothing and has no paid tier. A provider you add bills you on its 
 
 ## Does it need the internet?
 
-Some things do: downloading models and speech models, web search, update checks, the ad blocker's filter lists, and any provider or cloud voice you add. By default, chat, code, document search and voice run on your computer.
+Some things do: downloading models and speech models, web search, update checks, the ad blocker's filter lists, and any provider, cloud voice or cloud image model you add. By default, chat, code, document search and voice run on your computer.
 
 ## Do I need a graphics card?
 

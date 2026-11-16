@@ -12,6 +12,7 @@ A project is one folder Code works in. Every path is resolved with symlinks foll
 
 - Folders such as `.ssh`, `.aws`, `.gnupg`, `.kube`
 - Files such as `.env`, `id_rsa`, `.pem`, `.npmrc`, `credentials`
+- Executable and script types such as `.exe`, `.bat`, `.ps1` and `.py`
 - Anything over 2 MB
 
 ## Every change can be undone

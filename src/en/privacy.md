@@ -21,12 +21,13 @@ Draggy has no account and sends no telemetry. The requests it makes, such as upd
 | Connection check at first setup | Hugging Face, one request, when no model is installed |
 | Extensions you switch on | npm, then that service |
 | A cloud provider you add | That provider |
+| A cloud image model you pick | That provider |
 | A cloud voice you agree to | That provider, the assistant's reply text only |
 | Signing in with ChatGPT or Claude | OpenAI or Anthropic, through that provider's tool or protocol |
 | Claude Code, when a Claude sign-in starts | Anthropic's API, one start-up request |
 | The list of providers | draggy.org, at most once a day, once a cloud provider is turned on |
 
-The table lists the requests Draggy makes. Ad-block lists stay on until you switch ad blocking off in the browser pane. Draggy also makes one connection check at first setup, when no model is installed. To send fewer requests, set web search to **Off**, leave extensions off, add no cloud provider or cloud voice. Update checks have no switch. Model downloads and first-use speech models still need the network.
+The table lists the requests Draggy makes. Ad-block lists stay on until you switch ad blocking off in the browser pane. Draggy also makes one connection check at first setup, when no model is installed. To send fewer requests, set web search to **Off**, leave extensions off, add no cloud provider, cloud voice or cloud image model. Update checks have no switch. Model downloads and first-use speech models still need the network.
 
 ## Where everything is kept
 

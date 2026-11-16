@@ -6,6 +6,29 @@ section: reference
 
 Chaque build de Draggy est une release sur GitHub, avec ses notes et ses installateurs : [versions de Draggy](https://github.com/Lucki74/draggy/releases).
 
+## Build 12
+
+- Les réponses affichent les images générées ou trouvées sur le web. Cliquez pour ouvrir la visionneuse.
+- Les modèles d'image cloud d'un fournisseur connecté apparaissent dans Réglages, à côté des modèles locaux.
+- Le modèle vocal cloud et le nom de voix se choisissent dans les réglages Parler.
+- Les statistiques valorisent les réponses locales au tarif OpenRouter du modèle, avec une ventilation par modèle.
+- Une note de guidage peut être reprise, puis modifiée.
+- La recherche signale les citations introuvables sur la page et liste les sources de chaque exécution.
+
+### Corrections
+
+- Le modèle cloud par défaut s'ouvre au démarrage.
+- llama.cpp ne réutilise plus un contexte périmé.
+- La recherche web pendant une recherche attend la fin du délai.
+- Le volet navigateur s'ouvre lorsque l'agent visite une page.
+- Le message « Chargement du modèle vocal » est corrigé.
+
+### Sécurité
+
+- Les adresses privées résolues par DNS sont bloquées.
+- Davantage de types exécutables sont refusés.
+- Les scripts et installateurs s'ouvrent dans leur dossier au lieu de s'exécuter.
+
 ## Build 11
 
 Version 3.0.11, étiquette `b-11` sur GitHub.

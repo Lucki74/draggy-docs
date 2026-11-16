@@ -23,7 +23,7 @@ Use the buttons on the Talk screen to skip the reply or show the transcript.
 
 **Basic** uses the voices your operating system provides. **Natural** is a neural voice that runs on your computer. It is downloaded from Hugging Face the first time, and speaks English, French and Spanish. Speed has four steps: 0.9x, 1x, 1.1x and 1.25x. Russian keeps the system voice.
 
-**Cloud** sends the reply text, and not your speech, to OpenAI or Google Gemini, so that provider's voice can speak it. You agree to each provider first. If a cloud voice fails mid-reply, a local voice finishes it.
+**Cloud** sends the reply text, and not your speech, to OpenAI or Google Gemini, so that provider's voice can speak it. You agree to each provider first. If a cloud voice fails mid-reply, a local voice finishes it. In Talk settings you pick the cloud voice model and voice name.
 
 Listening runs on your machine, with Whisper base, or Moonshine base for English. Your audio is not uploaded.
 

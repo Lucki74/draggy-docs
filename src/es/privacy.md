@@ -21,12 +21,13 @@ Draggy no tiene cuenta y no envía telemetría. Las solicitudes que hace, como l
 | Comprobación de conexión en la primera configuración | Hugging Face, una solicitud, cuando no hay ningún modelo instalado |
 | Extensiones que activas | npm, y luego ese servicio |
 | Un proveedor en la nube que añades | Ese proveedor |
+| Un modelo de imagen en la nube que eliges | Ese proveedor |
 | Una voz en la nube que aceptas | Ese proveedor, solo el texto de la respuesta del asistente |
 | Iniciar sesión con ChatGPT o Claude | OpenAI o Anthropic, a través de la herramienta o protocolo del proveedor |
 | Claude Code, al iniciar una sesión de Claude | La API de Anthropic, una solicitud de inicio |
 | La lista de proveedores | draggy.org, como máximo una vez al día, una vez activado un proveedor en la nube |
 
-La tabla enumera las solicitudes de Draggy. Los listados del bloqueador de anuncios siguen activos hasta que lo desactives en el panel del navegador. Draggy también hace una comprobación de conexión en la primera configuración, cuando no hay ningún modelo instalado. Para enviar menos solicitudes, pon la búsqueda web en **Desactivado**, deja las extensiones apagadas, no añadas proveedores ni voces en la nube. Las comprobaciones de actualizaciones no tienen interruptor. Las descargas de modelos y las voces de la primera vez siguen necesitando la red.
+La tabla enumera las solicitudes de Draggy. Los listados del bloqueador de anuncios siguen activos hasta que lo desactives en el panel del navegador. Draggy también hace una comprobación de conexión en la primera configuración, cuando no hay ningún modelo instalado. Para enviar menos solicitudes, pon la búsqueda web en **Desactivado**, deja las extensiones apagadas, no añadas proveedores, voces ni modelos de imagen en la nube. Las comprobaciones de actualizaciones no tienen interruptor. Las descargas de modelos y las voces de la primera vez siguen necesitando la red.
 
 ## Dónde se guarda todo
 

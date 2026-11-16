@@ -6,7 +6,7 @@ section: use
 
 ## Draw a picture
 
-Type `/image` followed by what you want, or ask for a picture in a chat. Draggy draws it on your computer with a local image engine, so nothing is sent anywhere. In a [project](doc:projects) the file is saved under `assets/generated`. Outside a project it goes to your created files.
+Type `/image` followed by what you want, or ask for a picture in a chat. Draggy draws it on your computer with a local image engine, so nothing is sent anywhere. A cloud image model sends the prompt to that provider. In a [project](doc:projects) the file is saved under `assets/generated`. Outside a project it goes to your created files.
 
 ## Get an image model
 
@@ -16,7 +16,7 @@ Open **Settings → Models** and download an image model like any other. Install
 
 **Settings → Models → Image generation** has two settings:
 
-- **Image model**: Automatic, or one of the image models you have installed.
+- **Image model**: Automatic, or one of the image models you have installed, or a cloud image model from a provider you have connected.
 - **Image resolution**: the size every picture is drawn at.
 
 | Shape | Sizes |
@@ -26,3 +26,7 @@ Open **Settings → Models** and download an image model like any other. Install
 | 9:16 | 576 &times; 1024, 768 &times; 1344, 1024 &times; 1792 |
 
 The model in use carries a yellow **Images** tag in the installed list. Larger sizes take longer and need more memory.
+
+## Pictures in answers
+
+Answers show generated or web-found pictures. Click one to open it in the image viewer.

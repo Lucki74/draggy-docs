@@ -40,7 +40,7 @@ Each tool call shows up while the model is still writing it, with its name and i
 
 ## Queueing messages
 
-While a reply is generating, type a follow-up and press <kbd>Enter</kbd> to steer: the note goes into the running reply. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> to queue it for the next turn, or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd> to interrupt and send now. Queued messages are saved and persist if you restart the app.
+While a reply is generating, type a follow-up and press <kbd>Enter</kbd> to steer: the note goes into the running reply. Press <kbd>Ctrl</kbd>+<kbd>Enter</kbd> to queue it for the next turn, or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd> to interrupt and send now. Queued messages are saved and persist if you restart the app. A steer note can be taken back with **Take back and edit** before the next turn, then changed.
 
 ## Exporting chats
 

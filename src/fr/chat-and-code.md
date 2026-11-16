@@ -41,7 +41,7 @@ Chaque appel d'outil apparaît pendant que le modèle l'écrit, avec son nom et 
 
 ## File d'attente des messages
 
-Pendant qu'une réponse se génère, écrivez la suite et appuyez sur <kbd>Entrée</kbd> pour l'orienter : la note entre dans la réponse en cours. Appuyez sur <kbd>Ctrl</kbd>+<kbd>Entrée</kbd> pour la mettre en file d'attente pour le tour suivant, ou sur <kbd>Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>Entrée</kbd> pour interrompre et envoyer maintenant. Les messages en file d'attente sont conservés si vous redémarrez l'application.
+Pendant qu'une réponse se génère, écrivez la suite et appuyez sur <kbd>Entrée</kbd> pour l'orienter : la note entre dans la réponse en cours. Appuyez sur <kbd>Ctrl</kbd>+<kbd>Entrée</kbd> pour la mettre en file d'attente pour le tour suivant, ou sur <kbd>Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>Entrée</kbd> pour interrompre et envoyer maintenant. Les messages en file d'attente sont conservés si vous redémarrez l'application. Une note de guidage peut être reprise avec **Reprendre pour modifier** avant le tour suivant, puis modifiée.
 
 ## Exporter les discussions
 

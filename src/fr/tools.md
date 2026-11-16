@@ -10,7 +10,7 @@ Word depuis du Markdown, PowerPoint avec un titre par diapositive, Excel depuis 
 
 Les compétences Word, Excel, PowerPoint et PDF sont toujours actives et ne se désactivent pas. Le modèle charge la bonne avant d'écrire le fichier.
 
-Les types de fichiers exécutables et de scripts sont refusés lors de la création d'un document.
+Les types de fichiers exécutables et de scripts sont refusés lors de la création d'un document ou à l'ouverture d'un fichier. Les scripts et installateurs s'ouvrent dans leur dossier au lieu de s'exécuter.
 
 ## Exécuter du code
 

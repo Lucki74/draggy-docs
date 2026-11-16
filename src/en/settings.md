@@ -11,10 +11,10 @@ Three groups. **App** is Draggy as a whole, **Chat** and **Code** are each side'
 | Page | Holds |
 | --- | --- |
 | General | Theme, text size, interface language (English, French, Spanish or Russian), and the speed and memory line under each reply |
-| Models | Every installed model, the Hugging Face browser to add more, [context window](doc:glossary#context-window), [compaction limit](doc:glossary#compaction), and an Unload button, plus the image model and image size |
+| Models | Every installed model, the Hugging Face browser to add more, [context window](doc:glossary#context-window), [compaction limit](doc:glossary#compaction), and an Unload button, plus the image model (local or cloud) and image size |
 | Providers | Servers on this computer, API keys, and plan sign-ins |
 | Web search | Automatic, DuckDuckGo, Startpage, Brave Search, Brave Search API or SearXNG |
-| Statistics | Replies, tokens, speed by model, tool usage, time per task, cost, budgets and editable prices |
+| Statistics | Replies, tokens, speed by model, tool usage, time per task, cost by model, budgets and editable prices. Local replies are priced at the OpenRouter rate of the model they are based on |
 | Data | What is stored, and clearing history |
 | Diagnostics | The log folder, and Export diagnostics for bug reports. The export replaces your home folder and user name |
 | Extensions | Servers, remote servers and skills |
