@@ -41,7 +41,7 @@ Cada llamada a una herramienta aparece mientras el modelo aún la escribe, con s
 
 ## Cola de mensajes
 
-Mientras se genera una respuesta, escribe un seguimiento y pulsa <kbd>Enter</kbd> para añadirlo a la respuesta en curso. Pulsa <kbd>Ctrl</kbd>+<kbd>Enter</kbd> para ponerlo en cola para el siguiente turno, o <kbd>Ctrl</kbd>+<kbd>Mayús</kbd>+<kbd>Enter</kbd> para interrumpir y enviar al instante. Los mensajes en cola se guardan y se mantienen si reinicias la aplicación.
+Mientras se genera una respuesta, escribe un seguimiento y pulsa <kbd>Enter</kbd> para añadirlo a la respuesta en curso. Pulsa <kbd>Ctrl</kbd>+<kbd>Enter</kbd> para ponerlo en cola para el siguiente turno, o <kbd>Ctrl</kbd>+<kbd>Mayús</kbd>+<kbd>Enter</kbd> para interrumpir y enviar al instante. Los mensajes en cola se guardan y se mantienen si reinicias la aplicación. Una nota de guía se puede retirar con **Retirar y editar** antes del siguiente turno, y luego cambiarla.
 
 ## Exportar conversaciones
 

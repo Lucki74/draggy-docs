@@ -26,7 +26,7 @@ Draggy les refuse quel que soit le mode.
 - Les fichiers comme `.env`, `id_rsa`, `.pem`, `.pfx`, `.npmrc`, `.netrc`, `.git-credentials`, `credentials`
 - Toute lecture de plus de 2 Mo
 
-Les types de fichiers exécutables et de scripts sont refusés lors de la création d'un document. La liste complète est sur la page [Projets](doc:projects#ce-qui-reste-refusé), et [Outils et capacités](doc:tools#créer-des-fichiers) couvre les documents.
+Les types de fichiers exécutables et de scripts sont refusés lors de la création d'un document ou à l'ouverture d'un fichier. Les scripts et installateurs s'ouvrent dans leur dossier au lieu de s'exécuter. La liste complète est sur la page [Projets](doc:projects#ce-qui-reste-refusé), et [Outils et capacités](doc:tools#créer-des-fichiers) couvre les documents.
 
 ## Exécuter du code
 

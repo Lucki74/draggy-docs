@@ -26,7 +26,7 @@ Draggy refuses these whatever the mode.
 - Files such as `.env`, `id_rsa`, `.pem`, `.pfx`, `.npmrc`, `.netrc`, `.git-credentials`, `credentials`
 - Any single read over 2 MB
 
-Executable and script file types are refused when a document is made. The full list is on the [Projects](doc:projects#what-is-refused-anyway) page, and [Tools and capabilities](doc:tools#making-files) covers documents.
+Executable and script file types are refused when a document is made or a file is opened. Names ending in a dot, a space or a stream suffix count too, and scripts and installers open in their folder instead of running. The full list is on the [Projects](doc:projects#what-is-refused-anyway) page, and [Tools and capabilities](doc:tools#making-files) covers documents.
 
 ## Running code
 

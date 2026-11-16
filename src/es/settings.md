@@ -11,10 +11,10 @@ Tres grupos. **Aplicación** es Draggy en conjunto; **Chat** y **Code** son cada
 | Página | Contiene |
 | --- | --- |
 | General | Tema, tamaño del texto, idioma de la interfaz (inglés, francés, español o ruso), y la línea de velocidad y memoria bajo cada respuesta |
-| Modelos | Cada modelo instalado, el explorador de Hugging Face para añadir más, [la ventana de contexto](doc:glossary#context-window), [el límite de compactación](doc:glossary#compaction) y un botón Descargar, además del modelo y el tamaño de las imágenes |
+| Modelos | Cada modelo instalado, el explorador de Hugging Face para añadir más, [la ventana de contexto](doc:glossary#context-window), [el límite de compactación](doc:glossary#compaction) y un botón Descargar, además del modelo (local o en la nube) y el tamaño de las imágenes |
 | Proveedores | Servidores en este ordenador, claves de API y planes con inicio de sesión |
 | Búsqueda web | Automática, DuckDuckGo, Startpage, Brave Search, API de Brave Search o SearXNG |
-| Estadísticas | Respuestas, tokens, velocidad por modelo, uso de herramientas, tiempo por tarea, coste, presupuestos y precios editables |
+| Estadísticas | Respuestas, tokens, velocidad por modelo, uso de herramientas, tiempo por tarea, coste por modelo, presupuestos y precios editables. Las respuestas locales se valoran a la tarifa de OpenRouter del modelo en el que se basan |
 | Datos | Lo que se almacena, y borrar el historial |
 | Diagnóstico | La carpeta de registros, y Exportar diagnóstico para informes de errores. La exportación reemplaza tu carpeta personal y tu nombre de usuario |
 | Extensiones | Servidores, servidores remotos y habilidades |

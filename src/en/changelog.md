@@ -6,6 +6,29 @@ section: reference
 
 Every build of Draggy is a release on GitHub, with its notes and installers: [Draggy releases](https://github.com/Lucki74/draggy/releases).
 
+## Build 12
+
+- Answers show generated or web-found pictures; click one to open the image viewer.
+- Cloud image models from a connected provider appear in Settings next to local models.
+- Cloud voice model and voice name can be picked in the Talk settings.
+- Statistics price local replies at the OpenRouter rate of the model they are based on, with a cost by model breakdown.
+- Steer notes can be taken back and edited.
+- Research marks quotes not found on the page and lists sources per run.
+
+### Fixes
+
+- The cloud default model opens at startup.
+- llama.cpp no longer reuses a stale context.
+- Web search during research waits for the cooldown.
+- The browser pane opens when the agent visits a page.
+- The voice "Loading voice model" state is fixed.
+
+### Security
+
+- Private addresses found through DNS are blocked.
+- More executable types are refused.
+- Scripts and installers open in their folder instead of running.
+
 ## Build 11
 
 Version 3.0.11, tagged `b-11` on GitHub.

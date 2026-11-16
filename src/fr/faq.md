@@ -10,7 +10,7 @@ Oui. Il ne coûte rien et n'a pas de formule payante. Un fournisseur que vous aj
 
 ## Faut-il une connexion internet ?
 
-Oui, pour certaines choses : télécharger les modèles et les modèles vocaux, la recherche web, la vérification des mises à jour, les listes de filtres du bloqueur de publicités, et tout fournisseur ou voix cloud que vous ajoutez. Par défaut, le chat, Code, la recherche dans vos documents et la voix tournent sur votre ordinateur.
+Oui, pour certaines choses : télécharger les modèles et les modèles vocaux, la recherche web, la vérification des mises à jour, les listes de filtres du bloqueur de publicités, et tout fournisseur, voix cloud ou modèle d'image cloud que vous ajoutez. Par défaut, le chat, Code, la recherche dans vos documents et la voix tournent sur votre ordinateur.
 
 ## Faut-il une carte graphique ?
 

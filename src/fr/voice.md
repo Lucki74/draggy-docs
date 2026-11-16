@@ -23,7 +23,7 @@ Utilisez les boutons de l'écran Parler pour passer la réponse ou afficher la t
 
 **Basique** utilise les voix que fournit votre système d'exploitation. **Naturelle** est une voix neuronale qui tourne sur votre ordinateur. Elle est téléchargée depuis Hugging Face la première fois, et parle anglais, français et espagnol. La vitesse a quatre paliers : 0,9x, 1x, 1,1x et 1,25x. Le russe garde la voix du système.
 
-**Cloud** envoie le texte de la réponse, et non votre voix, à OpenAI ou Google Gemini, pour que la voix de ce fournisseur puisse la prononcer. Vous acceptez chaque fournisseur au préalable. Si une voix cloud échoue en cours de réponse, une voix locale termine la réponse.
+**Cloud** envoie le texte de la réponse, et non votre voix, à OpenAI ou Google Gemini, pour que la voix de ce fournisseur puisse la prononcer. Vous acceptez chaque fournisseur au préalable. Si une voix cloud échoue en cours de réponse, une voix locale termine la réponse. Dans les réglages Parler, vous choisissez le modèle et le nom de la voix cloud.
 
 L'écoute tourne sur votre machine, avec Whisper base, ou Moonshine base pour l'anglais. Votre audio n'est pas envoyé.
 

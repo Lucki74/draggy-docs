@@ -12,6 +12,7 @@ Un projet, c'est un dossier dans lequel Code travaille. Chaque chemin est résol
 
 - Les dossiers comme `.ssh`, `.aws`, `.gnupg`, `.kube`
 - Les fichiers comme `.env`, `id_rsa`, `.pem`, `.npmrc`, `credentials`
+- Types exécutables et de scripts comme `.exe`, `.bat`, `.ps1` et `.py`
 - Tout ce qui dépasse 2 Mo
 
 ## Tout changement est annulable

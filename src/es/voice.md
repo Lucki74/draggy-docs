@@ -23,7 +23,7 @@ Usa los botones de la pantalla Hablar para saltar la respuesta o mostrar la tran
 
 **Básica** usa las voces que proporciona tu sistema operativo. **Natural** es una voz neuronal que se ejecuta en tu equipo. Se descarga de Hugging Face la primera vez y habla inglés, francés y español. La velocidad tiene cuatro pasos: 0,9x, 1x, 1,1x y 1,25x. En ruso se usa la voz del sistema.
 
-**Nube** envía el texto de la respuesta, y no tu voz, a OpenAI o Google Gemini, para que la voz de ese proveedor pueda leerla. Aceptas cada proveedor antes. Si una voz en la nube falla a mitad de respuesta, una voz local termina la respuesta.
+**Nube** envía el texto de la respuesta, y no tu voz, a OpenAI o Google Gemini, para que la voz de ese proveedor pueda leerla. Aceptas cada proveedor antes. Si una voz en la nube falla a mitad de respuesta, una voz local termina la respuesta. En los ajustes de Hablar eliges el modelo y el nombre de la voz en la nube.
 
 La escucha se ejecuta en tu equipo, con Whisper base, o con Moonshine base para inglés. Tu audio no se sube.
 

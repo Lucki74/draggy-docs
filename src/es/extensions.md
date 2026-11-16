@@ -24,7 +24,7 @@ Los servidores **remotos** se ejecutan en otro lugar y se llega a ellos por HTTP
 
 Una habilidad enseña al modelo cómo se hace un trabajo. Draggy trae {{n:skills}} habilidades, de las cuales {{n:skillsOn}} vienen activadas por defecto. Escribe `/` y su nombre para ejecutar una, o deja que lo decida el modelo. Las habilidades de Word, Excel, PowerPoint y PDF y la habilidad `draggy-help` están siempre activas y no tienen interruptor.
 
-Las habilidades Deep research, Fact check, News brief y Trend scan leen fuentes, las guardan en una biblioteca de investigación y las citan en la respuesta.
+Las habilidades Deep research, Fact check, News brief y Trend scan leen fuentes, las guardan en una biblioteca de investigación y las citan en la respuesta. Las citas que no están en la página se marcan, y cada ejecución enumera sus fuentes.
 
 Una habilidad es una carpeta con un `SKILL.md` dentro:
 

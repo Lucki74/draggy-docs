@@ -6,7 +6,7 @@ section: use
 
 ## Dessiner une image
 
-Tapez `/image` suivi de ce que vous voulez, ou demandez une image dans une conversation. Draggy la dessine sur votre ordinateur avec un moteur d'images local : rien n'est envoyé ailleurs. Dans un [projet](doc:projects), le fichier est enregistré dans `assets/generated`. Hors projet, il va dans vos fichiers créés.
+Tapez `/image` suivi de ce que vous voulez, ou demandez une image dans une conversation. Draggy la dessine sur votre ordinateur avec un moteur d'images local : rien n'est envoyé ailleurs. Un modèle d'image cloud envoie le prompt à ce fournisseur. Dans un [projet](doc:projects), le fichier est enregistré dans `assets/generated`. Hors projet, il va dans vos fichiers créés.
 
 ## Obtenir un modèle d'image
 
@@ -16,7 +16,7 @@ Ouvrez **Réglages → Modèles** et téléchargez un modèle d'image comme les 
 
 **Réglages → Modèles → Génération d'images** propose deux réglages :
 
-- **Modèle d'image** : Automatique, ou l'un des modèles d'image installés.
+- **Modèle d'image** : Automatique, ou l'un des modèles d'image installés, ou un modèle d'image cloud d'un fournisseur connecté.
 - **Résolution des images** : la taille de chaque image dessinée.
 
 | Format | Tailles |
@@ -26,3 +26,7 @@ Ouvrez **Réglages → Modèles** et téléchargez un modèle d'image comme les 
 | 9:16 | 576 &times; 1024, 768 &times; 1344, 1024 &times; 1792 |
 
 Le modèle utilisé porte une étiquette jaune **Images** dans la liste installée. Les grandes tailles prennent plus de temps et de mémoire.
+
+## Images dans les réponses
+
+Les réponses affichent les images générées ou trouvées sur le web. Cliquez sur une image pour l'ouvrir dans la visionneuse.

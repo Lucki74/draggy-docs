@@ -24,7 +24,7 @@ No server is on by default, and every entry names the exact package with a link 
 
 A skill teaches the model how a job is done. {{n:skills}} ship with Draggy, with {{n:skillsOn}} on by default. Type `/` and its name to run one, or leave it to the model. The Word, Excel, PowerPoint and PDF skills and the `draggy-help` skill are always on and have no switch.
 
-Deep research, Fact check, News brief and Trend scan read sources, keep them in a research library and cite them in the answer.
+Deep research, Fact check, News brief and Trend scan read sources, keep them in a research library and cite them in the answer. Quotes not found on the page are marked, and each run lists its sources.
 
 A skill is a folder with a `SKILL.md` in it:
 

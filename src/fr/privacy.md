@@ -21,12 +21,13 @@ Draggy n'a pas de compte et n'envoie aucune télémétrie. Les requêtes qu'il f
 | Vérification de connexion à la première configuration | Hugging Face, une requête, quand aucun modèle n'est installé |
 | Extensions activées | npm, puis le service concerné |
 | Un fournisseur cloud que vous ajoutez | Ce fournisseur |
+| Un modèle d'image cloud que vous choisissez | Ce fournisseur |
 | Une voix cloud que vous acceptez | Ce fournisseur, le texte de la réponse de l'assistant seulement |
 | La connexion avec ChatGPT ou Claude | OpenAI ou Anthropic, par l'outil ou le protocole de ce fournisseur |
 | Claude Code, au démarrage d'une connexion Claude | L'API d'Anthropic, une requête de démarrage |
 | La liste des fournisseurs | draggy.org, au plus une fois par jour, une fois un fournisseur cloud activé |
 
-Le tableau liste les requêtes faites par Draggy. Le blocage des publicités reste actif tant que vous ne le désactivez pas dans le volet du navigateur. Draggy fait aussi une vérification de connexion à la première configuration, quand aucun modèle n'est installé. Pour envoyer moins de requêtes, mettez la recherche web sur **Désactivé**, laissez les extensions éteintes, n'ajoutez aucun fournisseur cloud ni voix cloud. La vérification des mises à jour n'a aucun interrupteur. Les téléchargements de modèles et les modèles vocaux utilisés pour la première fois ont toujours besoin du réseau.
+Le tableau liste les requêtes faites par Draggy. Le blocage des publicités reste actif tant que vous ne le désactivez pas dans le volet du navigateur. Draggy fait aussi une vérification de connexion à la première configuration, quand aucun modèle n'est installé. Pour envoyer moins de requêtes, mettez la recherche web sur **Désactivé**, laissez les extensions éteintes, n'ajoutez aucun fournisseur cloud, voix cloud ni modèle d'image cloud. La vérification des mises à jour n'a aucun interrupteur. Les téléchargements de modèles et les modèles vocaux utilisés pour la première fois ont toujours besoin du réseau.
 
 ## Où tout est gardé
 

@@ -24,7 +24,7 @@ Les serveurs **distants** tournent ailleurs et sont joints en HTTPS. Un serveur 
 
 Une compétence apprend au modèle comment se fait un travail. {{n:skills}} sont livrées avec Draggy, dont {{n:skillsOn}} activées par défaut. Tapez `/` puis son nom pour en lancer une, ou laissez le modèle choisir. Les compétences Word, Excel, PowerPoint et PDF et la compétence `draggy-help` sont toujours actives et n'ont pas d'interrupteur.
 
-Les compétences Deep research, Fact check, News brief et Trend scan lisent des sources, les gardent dans une bibliothèque de recherche et les citent dans la réponse.
+Les compétences Deep research, Fact check, News brief et Trend scan lisent des sources, les gardent dans une bibliothèque de recherche et les citent dans la réponse. Les citations introuvables sur la page sont signalées, et chaque exécution liste ses sources.
 
 Une compétence est un dossier avec un `SKILL.md` dedans :
 

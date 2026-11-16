@@ -26,7 +26,7 @@ Draggy los rechaza sea cual sea el modo.
 - Archivos como `.env`, `id_rsa`, `.pem`, `.pfx`, `.npmrc`, `.netrc`, `.git-credentials`, `credentials`
 - Cualquier lectura de más de 2 MB
 
-Los tipos de archivo ejecutables y de script se rechazan al crear un documento. La lista completa está en la página [Proyectos](doc:projects#lo-que-se-rechaza-de-todos-modos), y [Herramientas y capacidades](doc:tools#crear-archivos) trata los documentos.
+Los tipos de archivo ejecutables y de script se rechazan al crear un documento o al abrir un archivo. Los scripts e instaladores se abren en su carpeta en lugar de ejecutarse. La lista completa está en la página [Proyectos](doc:projects#lo-que-se-rechaza-de-todos-modos), y [Herramientas y capacidades](doc:tools#crear-archivos) trata los documentos.
 
 ## Ejecutar código
 
