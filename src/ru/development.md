@@ -52,3 +52,5 @@ Draggy запускает локальные модели встроенным �
 - **GGUF (llama.cpp)**: запускает файлы моделей `.gguf` в скрытом дочернем процессе `llama-server` на порту `11435`. На macOS используется Metal. В Windows CUDA выбирается, когда найдена видеокарта с памятью, иначе Vulkan. Карты AMD сначала используют сборку ROCm, когда она опубликована, затем Vulkan. Одновременно работает только один локальный движок.
 
 Остальное описано в [CONTRIBUTING.md](https://github.com/Lucki74/draggy/blob/main/CONTRIBUTING.md), а сообщить об уязвимости можно по инструкции в [SECURITY.md](https://github.com/Lucki74/draggy/blob/main/SECURITY.md).
+
+У сайта и этой документации свои репозитории: [Lucki74/draggy-website](https://github.com/Lucki74/draggy-website) и [Lucki74/draggy-docs](https://github.com/Lucki74/draggy-docs).

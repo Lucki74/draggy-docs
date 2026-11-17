@@ -42,6 +42,8 @@
 "home.cards": "Toda la documentación",
   "footer.license": "Draggy es gratuito y de código abierto bajo Apache 2.0.",
   "footer.source": "Código fuente",
+  "footer.websiteSource": "Código del sitio",
+  "footer.docsSource": "Código de la documentación",
   "footer.issues": "Informar de un problema",
   "footer.privacy": "Privacidad",
   "crumbs": "Ruta de navegación",

@@ -52,3 +52,5 @@ Draggy runs local models with an embedded engine:
 - **GGUF (llama.cpp)**: Runs `.gguf` model files in a hidden `llama-server` child process on port `11435`. On Windows, the CUDA build is chosen when a graphics card with memory is found, and Vulkan otherwise. AMD cards use the ROCm build ahead of Vulkan when one is published. Only one local engine runs at a time.
 
 [CONTRIBUTING.md](https://github.com/Lucki74/draggy/blob/main/CONTRIBUTING.md) has the rest, and [SECURITY.md](https://github.com/Lucki74/draggy/blob/main/SECURITY.md) covers reporting a vulnerability.
+
+The website and this documentation have their own repositories: [Lucki74/draggy-website](https://github.com/Lucki74/draggy-website) and [Lucki74/draggy-docs](https://github.com/Lucki74/draggy-docs).
