@@ -32,7 +32,7 @@ When you send your first message, Draggy loads the model into memory. On later l
 
 ## Updates
 
-Draggy checks for updates at every launch and every six hours after that. On Windows, a found update downloads in the background. When it is ready, an **Update ready** notice offers **Install now** or **Maybe later**. Install now installs the update quietly and restarts Draggy. There is no Updates setting, and updates never run from a development build.
+Draggy checks for updates at every launch and every six hours after that. On Windows, the launch check runs in the small window Draggy shows while it starts. A found update downloads there with a progress line, installs, and Draggy restarts into the new version. **Start without updating** opens Draggy right away instead. If the check gets no answer within a few seconds, Draggy starts anyway. An update found later downloads in the background, and an **Update ready** notice offers **Install now** or **Maybe later**. Install now installs it quietly and restarts Draggy. There is no Updates setting, and updates never run from a development build.
 
 On macOS, Draggy downloads the zip itself, checks its SHA-256 and swaps the app bundle after you quit. If the folder is not writable, it opens the release page instead. On Linux, Draggy downloads and verifies the package in the background, and the restart notice installs the .deb or .rpm with pkexec. Flatpak does nothing, and without pkexec Draggy opens the release page. Running from source, updates are disabled.
 

@@ -6,6 +6,20 @@ section: reference
 
 Cada compilación de Draggy es una release en GitHub, con sus notas e instaladores: [versiones de Draggy](https://github.com/Lucki74/draggy/releases).
 
+## Build 13
+
+- Draggy arranca en una pequeña ventana que busca una actualización, la descarga y se reinicia con la nueva versión. **Iniciar sin actualizar** la omite.
+- Tras una actualización, la ventana de arranque muestra la nueva versión.
+
+### Correcciones
+
+- Se instalan todas las habilidades de la biblioteca integrada.
+- Los mensajes largos en alfabetos no latinos ya no se toman por binarios.
+
+### Seguridad
+
+- Los comandos ejecutados como administrador ya no pasan por una ventana oculta de PowerShell.
+
 ## Compilación 12
 
 - Las respuestas muestran imágenes generadas o encontradas en la web. Haz clic para abrir el visor.

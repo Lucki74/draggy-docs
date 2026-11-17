@@ -32,7 +32,7 @@ Cuando envías tu primer mensaje, Draggy carga el modelo en memoria. En los sigu
 
 ## Actualizaciones {#updates}
 
-Draggy comprueba si hay actualizaciones en cada inicio y después cada seis horas. En Windows, una actualización encontrada se descarga en segundo plano. Cuando está lista, un aviso **Actualización lista** ofrece **Instalar ahora** o **Más tarde**. Instalar ahora la instala en silencio y reinicia Draggy. No hay ningún ajuste de actualizaciones, y las actualizaciones nunca se ejecutan desde una compilación de desarrollo.
+Draggy comprueba si hay actualizaciones en cada inicio y después cada seis horas. En Windows, la comprobación del inicio se hace en la pequeña ventana que Draggy muestra al arrancar. Una actualización encontrada se descarga ahí con una barra de progreso, se instala y Draggy se reinicia con la nueva versión. **Iniciar sin actualizar** abre Draggy en el momento. Si la comprobación no recibe respuesta en unos segundos, Draggy arranca igualmente. Una actualización encontrada más tarde se descarga en segundo plano, y un aviso **Actualización lista** ofrece **Instalar ahora** o **Más tarde**. Instalar ahora la instala en silencio y reinicia Draggy. No hay ningún ajuste de actualizaciones, y las actualizaciones nunca se ejecutan desde una compilación de desarrollo.
 
 En macOS, Draggy descarga él mismo el zip, comprueba su SHA-256 y cambia el paquete de la aplicación al salir. Si la carpeta no se puede escribir, abre la página de la versión. En Linux, Draggy descarga y verifica el paquete en segundo plano, y el aviso de reinicio instala el .deb o el .rpm con pkexec. Flatpak no hace nada, y sin pkexec Draggy abre la página de la versión. Si ejecutas desde el código fuente, las actualizaciones están desactivadas.
 

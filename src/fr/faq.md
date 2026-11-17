@@ -38,7 +38,7 @@ La version de Draggy n'est pas encore signée avec un certificat d'éditeur. Win
 
 ## Se met-il à jour tout seul ?
 
-Oui. Draggy vérifie à chaque lancement et toutes les six heures. Sous Windows, une mise à jour se télécharge en arrière-plan, et un avis **Mise à jour prête** propose **Installer maintenant** ou **Plus tard**. Installer maintenant l'installe discrètement et redémarre Draggy.
+Oui. Draggy vérifie à chaque lancement et toutes les six heures. Sous Windows, une mise à jour trouvée au lancement se télécharge et s'installe dans la fenêtre de démarrage, sauf si vous choisissez **Démarrer sans mettre à jour**. Une mise à jour trouvée plus tard se télécharge en arrière-plan, et un avis **Mise à jour prête** propose **Installer maintenant** ou **Plus tard**. Installer maintenant l'installe discrètement et redémarre Draggy.
 
 ## Quelles langues parle-t-il ?
 

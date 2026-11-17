@@ -38,7 +38,7 @@ Draggy's build is not signed with a developer certificate yet. Windows shows a w
 
 ## Does it update itself?
 
-Yes. Draggy checks at every launch and every six hours. On Windows, an update downloads in the background, and an **Update ready** notice offers **Install now** or **Maybe later**. Install now installs it quietly and restarts Draggy.
+Yes. Draggy checks at every launch and every six hours. On Windows, an update found at launch downloads and installs in the startup window, unless you pick **Start without updating**. One found later downloads in the background, and an **Update ready** notice offers **Install now** or **Maybe later**. Install now installs it quietly and restarts Draggy.
 
 ## Which languages does it speak?
 

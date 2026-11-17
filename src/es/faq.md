@@ -38,7 +38,7 @@ La versión de Draggy todavía no está firmada con un certificado de desarrolla
 
 ## ¿Se actualiza solo?
 
-Sí. Draggy comprueba en cada inicio y cada seis horas. En Windows, una actualización se descarga en segundo plano, y un aviso **Actualización lista** ofrece **Instalar ahora** o **Más tarde**. Instalar ahora la instala en silencio y reinicia Draggy.
+Sí. Draggy comprueba en cada inicio y cada seis horas. En Windows, una actualización encontrada al iniciar se descarga e instala en la ventana de arranque, salvo que elijas **Iniciar sin actualizar**. Una encontrada más tarde se descarga en segundo plano, y un aviso **Actualización lista** ofrece **Instalar ahora** o **Más tarde**. Instalar ahora la instala en silencio y reinicia Draggy.
 
 ## ¿Qué idiomas habla?
 

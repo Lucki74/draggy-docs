@@ -6,6 +6,20 @@ section: reference
 
 Every build of Draggy is a release on GitHub, with its notes and installers: [Draggy releases](https://github.com/Lucki74/draggy/releases).
 
+## Build 13
+
+- Draggy starts in a small window that checks for an update, downloads it and restarts into the new version. **Start without updating** skips it.
+- After an update, the startup window shows the new version.
+
+### Fixes
+
+- Every skill in the built-in library is installed.
+- Long messages in non-Latin scripts are no longer treated as binary.
+
+### Security
+
+- Commands run as administrator no longer go through a hidden PowerShell window.
+
 ## Build 12
 
 - Answers show generated or web-found pictures; click one to open the image viewer.
