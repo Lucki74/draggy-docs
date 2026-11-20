@@ -8,7 +8,7 @@ Chaque build de Draggy est une release sur GitHub, avec ses notes et ses install
 
 ## Build 14
 
-- Sous Windows, on peut joindre des vidéos à une discussion. Un modèle de vision qui appelle des outils lit la chronologie et regarde des passages ou des images précises.
+- On peut joindre des vidéos à une discussion sous Windows, macOS et Linux, où ffmpeg doit être installé. Un modèle de vision qui appelle des outils lit la chronologie et regarde des passages ou des images précises.
 - L'API locale parle aussi les formats OpenAI Responses et Anthropic Messages, ainsi que les routes d'Ollama. **Répondre aux requêtes API avec** choisit l'agent ou le modèle seul.
 
 ### Corrections

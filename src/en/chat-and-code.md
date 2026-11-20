@@ -29,7 +29,7 @@ Type `/` for slash commands: `/new`, `/model`, `/compact`, `/settings`, `/web`, 
 
 Images pasted or attached to the composer show preview cards with quick removal before sending.
 
-On Windows, **Add video** in the **+** menu attaches a video. Dropping or pasting one works up to 200MB, and larger files, up to 4 hours and 4GB, go through **Add video**. The video shows as a card that plays on click while Draggy indexes it. A vision model with tool calling reads its timeline, looks through stretches of it and opens single frames, and its steps show the frames it looked at. Other models say they can't see the video.
+On Windows, **Add video** in the **+** menu attaches a video. Dropping or pasting one works up to 200MB, and larger files go through **Add video**. On macOS and Linux a video attaches like any other file, and Draggy needs ffmpeg, from Homebrew on macOS or the package manager on Linux. A video can be up to 4 hours long and 4GB. On Windows it shows as a card that plays on click while Draggy indexes it. A vision model with tool calling reads its timeline, looks through stretches of it and opens single frames, and its steps show the frames it looked at. Other models say they can't see the video.
 
 ## Interactive questions
 

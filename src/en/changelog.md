@@ -8,7 +8,7 @@ Every build of Draggy is a release on GitHub, with its notes and installers: [Dr
 
 ## Build 14
 
-- On Windows, videos can be attached to a chat. A vision model with tool calling reads the timeline and looks at stretches or single frames.
+- Videos can be attached to a chat on Windows, macOS and Linux, where ffmpeg has to be installed. A vision model with tool calling reads the timeline and looks at stretches or single frames.
 - The local API also speaks the OpenAI Responses and Anthropic Messages formats and Ollama's routes. **Answer API requests with** picks the agent or the model alone.
 
 ### Fixes

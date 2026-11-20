@@ -29,7 +29,7 @@ Escribe `/` para los comandos: `/new`, `/model`, `/compact`, `/settings`, `/web`
 
 Las imágenes pegadas o adjuntas al compositor muestran tarjetas de vista previa con eliminación rápida antes del envío.
 
-En Windows, **Añadir vídeo** en el menú **+** adjunta un vídeo. Arrastrar o pegar un vídeo funciona hasta 200 MB, y los archivos más grandes, de hasta 4 horas y 4 GB, van por **Añadir vídeo**. El vídeo aparece como una tarjeta que se reproduce al hacer clic mientras Draggy lo indexa. Un modelo con visión y llamadas a herramientas lee su línea de tiempo, recorre tramos y abre fotogramas concretos, y sus pasos muestran los fotogramas que miró. Los demás modelos dicen que no pueden ver el vídeo.
+En Windows, **Añadir vídeo** en el menú **+** adjunta un vídeo. Arrastrar o pegar un vídeo funciona hasta 200 MB, y los archivos más grandes van por **Añadir vídeo**. En macOS y Linux un vídeo se adjunta como cualquier otro archivo, y Draggy necesita ffmpeg, instalado con Homebrew en macOS o con el gestor de paquetes en Linux. Un vídeo puede durar hasta 4 horas y ocupar 4 GB. En Windows aparece como una tarjeta que se reproduce al hacer clic mientras Draggy lo indexa. Un modelo con visión y llamadas a herramientas lee su línea de tiempo, recorre tramos y abre fotogramas concretos, y sus pasos muestran los fotogramas que miró. Los demás modelos dicen que no pueden ver el vídeo.
 
 ## Preguntas interactivas
 

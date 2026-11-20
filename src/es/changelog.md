@@ -8,7 +8,7 @@ Cada compilación de Draggy es una release en GitHub, con sus notas e instalador
 
 ## Build 14
 
-- En Windows se pueden adjuntar vídeos a un chat. Un modelo con visión y llamadas a herramientas lee la línea de tiempo y mira tramos o fotogramas concretos.
+- Se pueden adjuntar vídeos a un chat en Windows, macOS y Linux, donde hace falta tener ffmpeg instalado. Un modelo con visión y llamadas a herramientas lee la línea de tiempo y mira tramos o fotogramas concretos.
 - La API local también habla los formatos OpenAI Responses y Anthropic Messages y las rutas de Ollama. **Responder a las solicitudes de la API con** elige el agente o solo el modelo.
 
 ### Correcciones
