@@ -6,6 +6,17 @@ section: reference
 
 Every build of Draggy is a release on GitHub, with its notes and installers: [Draggy releases](https://github.com/Lucki74/draggy/releases).
 
+## Build 14
+
+- Videos can be attached to a chat on Windows, macOS and Linux, where ffmpeg has to be installed. A vision model with tool calling reads the timeline and looks at stretches or single frames.
+- The local API also speaks the OpenAI Responses and Anthropic Messages formats and Ollama's routes. **Answer API requests with** picks the agent or the model alone.
+
+### Fixes
+
+- Chats signed in with an account no longer get empty replies.
+- Tool calls and follow-up messages work in ChatGPT chats.
+- Browser steps that worked are no longer shown as failed.
+
 ## Build 13
 
 - Draggy starts in a small window that checks for an update, downloads it and restarts into the new version. **Start without updating** skips it.

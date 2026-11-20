@@ -29,6 +29,8 @@ Tapez `/` pour les commandes : `/new`, `/model`, `/compact`, `/settings`, `/web`
 
 Les images collées ou jointes dans le composeur affichent un aperçu avec suppression rapide avant envoi.
 
+Sous Windows, **Ajouter une vidéo** dans le menu **+** joint une vidéo. Glisser ou coller une vidéo fonctionne jusqu'à 200 Mo, et les fichiers plus gros passent par **Ajouter une vidéo**. Sous macOS et Linux, une vidéo se joint comme n'importe quel fichier, et Draggy a besoin de ffmpeg, installé avec Homebrew sous macOS ou le gestionnaire de paquets sous Linux. Une vidéo peut durer jusqu'à 4 heures et peser 4 Go. Sous Windows, elle s'affiche sous forme de carte qui se lit au clic pendant que Draggy l'indexe. Un modèle de vision qui appelle des outils lit sa chronologie, parcourt des passages et ouvre des images précises, et ses étapes montrent les images regardées. Les autres modèles disent qu'ils ne voient pas la vidéo.
+
 ## Questions interactives
 
 Lorsque le modèle a besoin de précisions ou de choix, il affiche des cartes de questions interactives directement dans le fil de discussion (choix unique, choix multiples ou texte libre).
