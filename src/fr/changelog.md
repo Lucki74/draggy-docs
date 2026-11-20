@@ -6,6 +6,17 @@ section: reference
 
 Chaque build de Draggy est une release sur GitHub, avec ses notes et ses installateurs : [versions de Draggy](https://github.com/Lucki74/draggy/releases).
 
+## Build 14
+
+- Sous Windows, on peut joindre des vidéos à une discussion. Un modèle de vision qui appelle des outils lit la chronologie et regarde des passages ou des images précises.
+- L'API locale parle aussi les formats OpenAI Responses et Anthropic Messages, ainsi que les routes d'Ollama. **Répondre aux requêtes API avec** choisit l'agent ou le modèle seul.
+
+### Corrections
+
+- Les discussions connectées à un compte ne reçoivent plus de réponses vides.
+- Les appels d'outils et les messages de suivi fonctionnent dans les discussions ChatGPT.
+- Les étapes du navigateur qui ont réussi ne s'affichent plus comme échouées.
+
 ## Build 13
 
 - Draggy démarre dans une petite fenêtre qui cherche une mise à jour, la télécharge et redémarre sur la nouvelle version. **Démarrer sans mettre à jour** la saute.
